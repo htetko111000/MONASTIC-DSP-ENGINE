@@ -1,0 +1,6 @@
+{
+  "name": "Buddhist Group Chanting Generator",
+  "description": "Transform a single-person chanting MP3 into a harmonious group of monks chanting together with adjustable layers, delays, panning, and Dhamma Hall reverb.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
